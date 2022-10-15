@@ -1,0 +1,23 @@
+/* Main text color #212121 */
+/* Secondary text color #757575*/
+/* Accent #2196F3 */
+/* color: rgba(255, 255, 255, 0.6); */
+/* Main background color: #F5F5F5;*/
+
+body{
+    color: #212121;
+    background-color: #F5F5F5 ;
+}
+.list {
+    list-style: none;
+}
+/* Header styles */
+.logo{
+    color: #000000;
+}
+.Logo-web{
+    color: #2196F3;
+}
+.studio {
+    color: #2196F3 ;
+}
